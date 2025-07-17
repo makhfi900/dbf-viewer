@@ -12,6 +12,7 @@ A modern React web application for viewing Visual FoxPro 9 .dbf files and perfor
 ### File Viewing
 - **Upload and Parse**: Support for Visual FoxPro 9 .dbf files
 - **Table Display**: Responsive table with pagination, sorting, and search
+- **Column Visibility**: Show/hide specific columns with individual checkboxes and bulk operations
 - **Field Information**: View field structure, types, and metadata
 - **File Metadata**: Display file information including last update date and record count
 
@@ -25,7 +26,9 @@ A modern React web application for viewing Visual FoxPro 9 .dbf files and perfor
 - **Summary Statistics**: Overview of changes with counts and percentages
 
 ### User Experience
+- **Enhanced Visual Design**: Modern UI with animations, gradients, and improved aesthetics
 - **Responsive Design**: Works on desktop and mobile devices
+- **Dark Mode Support**: Automatic dark mode detection and styling
 - **Drag & Drop**: Easy file upload with drag and drop support
 - **Error Handling**: Robust error boundaries and user-friendly error messages
 - **Loading States**: Clear feedback during file processing
